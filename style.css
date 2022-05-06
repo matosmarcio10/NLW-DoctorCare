@@ -203,7 +203,7 @@ body.menu-expanded {
 }
 
 body.menu-expanded > :not(nav){
-  visibility:hidden ;
+  visibility:hidden;
 }
 
 .menu,
