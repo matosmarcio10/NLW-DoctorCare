@@ -1,6 +1,9 @@
 # NLW Return
 Semana da Rocketseat onde desenvolvemos um site!
 
+Você poder acessar aqui:
+https://matosmarcio10.github.io/NLW-DoctorCare/
+
 ![aula 01 - nwl_rocketseat](https://user-images.githubusercontent.com/61099330/167036611-fbbc5f26-940a-4b28-b249-048daa43cd01.png)
 ![aula 02 - modificando_ a_ index_2](https://user-images.githubusercontent.com/61099330/167036618-9ce1760d-81a5-491c-877e-bcecd7922d71.png)
 ![aula 02 - modificandoaindex1](https://user-images.githubusercontent.com/61099330/167036619-629ea435-8a8e-430c-a4c6-9a385245aa0c.png)]
